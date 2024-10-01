@@ -42,6 +42,7 @@
 	//comment8
 	//comment9
 	//comment10
+	//Comment11
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -51,7 +52,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f02ec03393a0d210714c366badba1003</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Update_IncState</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo-Integration" source="592dccbf9360d210714c366badba10b2">592dccbf9360d210714c366badba10b2</sys_package>
@@ -59,10 +60,21 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Demo-Integration">592dccbf9360d210714c366badba10b2</sys_scope>
         <sys_update_name>sys_script_f02ec03393a0d210714c366badba1003</sys_update_name>
-        <sys_updated_by>Test.User</sys_updated_by>
-        <sys_updated_on>2024-09-19 08:51:39</sys_updated_on>
+        <sys_updated_by>anuj.patidar</sys_updated_by>
+        <sys_updated_on>2024-10-01 08:23:20</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=f02ec03393a0d210714c366badba1003"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>f02ec03393a0d210714c366badba1003</id>
+        <sys_created_by>anuj.patidar</sys_created_by>
+        <sys_created_on>2024-10-01 08:23:20</sys_created_on>
+        <sys_id>ed63186493851a10714c366badba1013</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>anuj.patidar</sys_updated_by>
+        <sys_updated_on>2024-10-01 08:23:20</sys_updated_on>
+        <table>sys_script</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
